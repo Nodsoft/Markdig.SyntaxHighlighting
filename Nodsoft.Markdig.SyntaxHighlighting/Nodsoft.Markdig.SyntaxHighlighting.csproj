@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net6.0</TargetFramework>
+        <TargetFrameworks>net6.0;net8.0</TargetFrameworks>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <LangVersion>latest</LangVersion>
@@ -18,13 +18,13 @@
         <RepositoryType>git</RepositoryType>
         
         <PackageReadmeFile>README.md</PackageReadmeFile>
-        <PackageLicenseFile>LICENSE</PackageLicenseFile>
+        <PackageLicenseExpression>ISC</PackageLicenseExpression>
         <PackageIcon>icon.png</PackageIcon>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="ColorCode.HTML" Version="2.0.15" />
-      <PackageReference Include="Markdig" Version="0.32.0" />
+      <PackageReference Include="Markdig" Version="0.36.2" />
     </ItemGroup>
 
 </Project>
