@@ -10,11 +10,10 @@
         <Authors>Richard Slater, Sakura Akeno Isayeki</Authors>
         <Company>Nodsoft Systems</Company>
         <Description>Syntax Highlighting extension for Markdig</Description>
-        <Copyright>ISC</Copyright>
         
-        <PackageTags>markdig,extension,syntax,highlighting</PackageTags>
-        <PackageProjectUrl>https://github.com/Nodsoft/Markdig.SyntaxHighlighting.Core</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/Nodsoft/Markdig.SyntaxHighlighting.Core</RepositoryUrl>
+        <PackageTags>markdig,extension,syntax,highlighting,markdown</PackageTags>
+        <PackageProjectUrl>https://github.com/Nodsoft/Nodsoft.Markdig.SyntaxHighlighting</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/Nodsoft/Nodsoft.Markdig.SyntaxHighlighting</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         
         <PackageReadmeFile>README.md</PackageReadmeFile>
